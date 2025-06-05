@@ -5,7 +5,7 @@
 
 # 🍽️ Cooknesia
 
-Cooknesia adalah platform digital yang menghubungkan pecinta kuliner Indonesia dengan kekayaan resep tradisional nusantara. Website ini dirancang khusus untuk melestarikan dan membagikan resep otentik dari 38 provinsi Indonesia dengan fitur AI Recomendation.
+Cooknesia merupakan platform digital yang dirancang untuk menghubungkan pecinta kuliner dengan kekayaan resep tradisional dari 38 provinsi di Indonesia. Website ini tidak hanya berfungsi sebagai wadah pelestarian warisan kuliner nusantara, tetapi juga menghadirkan pengalaman yang personal dan interaktif melalui fitur AI Recommendation yang memungkinkan pengguna mendapatkan rekomendasi resep secara cerdas berdasarkan bahan yang tersedia. Dengan pendekatan teknologi ini, Cooknesia berupaya menjadikan masakan tradisional lebih mudah diakses, dipelajari, dan diwariskan kepada generasi digital.
 
 ## 🌟 Fitur Utama
 
