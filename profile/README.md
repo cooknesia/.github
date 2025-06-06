@@ -37,6 +37,15 @@ Cooknesia merupakan platform digital yang dirancang untuk menghubungkan pecinta 
 3. **SEO & Performance**
    - OpenGraph dan Twitter Cards terintegrasi
    - Optimized metadata untuk search engines
+  
+4. Teknologi Backend
+   - Hapi.js (Node.js) untuk API utama
+   - Flask (Python) untuk backend Machine Learning model
+   - PostgreSQL sebagai basis data, dikelola menggunakan Supabase
+   - JWT untuk otorisasi dan autentikasi user
+   - Docker untuk containerisasi backend model
+   - Vercel sebagai platform serverless untuk deployment backend utama
+   - AWS EC2 (t2.micro) untuk hosting backend model berbasis Flask
 
 ## 📱 Tampilan Website
 
@@ -48,9 +57,8 @@ Cooknesia merupakan platform digital yang dirancang untuk menghubungkan pecinta 
 
 ## 🔗 Akses Website
 
-- Frontend : 
-- Backend : 
-- Model :
+- Frontend :  [cooknesia.xyz](https://cooknesia.xyz)
+- Backend : [api.cooknesia.xyz](https://api.cooknesia.xyz)
 
 ## 👥 Tim Pengembang
 
