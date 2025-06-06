@@ -62,7 +62,7 @@ Cooknesia merupakan platform digital yang dirancang untuk menghubungkan pecinta 
 
 ## 👥 Tim Pengembang
 
-| Bangkit ID     | Name                      | Learning Path       | University                     | Status  |
+|  ID            | Name                      | Learning Path       | University                     | Status  |
 |----------------|---------------------------|---------------------|--------------------------------|---------|
 | MC180D5Y0530   | Stefanus Betanius Prakoso | Machine Learning    | Universitas Airlangga          | Active  |
 | MC180D5X0439   |  Tsalsa Dinda Maghfiroh   | Machine Learning    | Universitas Airlangga          | Active  |
