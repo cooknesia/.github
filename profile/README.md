@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="../assets/favicon.png" alt="Cooknesia Logo" width="200"/>
+  <img src="../assets/icon.png" alt="Cooknesia Logo" width="200"/>
 </div>
 
 # 🍽️ Cooknesia
